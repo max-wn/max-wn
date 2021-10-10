@@ -7,6 +7,10 @@
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/git.svg" /></code>
 [<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/github.svg" /></code>][my_github]
 
+<br/>
+
+![max-wn's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-wn&show_icons=true&theme=merko)
+
 ***
 
 [my_github]: https://github.com/max-wn
