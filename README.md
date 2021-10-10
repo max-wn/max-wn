@@ -9,7 +9,7 @@
 
 <br/>
 
-![max-wn's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-wn&show_icons=true&theme=merko)
+![max-wn's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-wn&show_icons=true&theme=tokyonight)
 
 ***
 
