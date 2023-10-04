@@ -7,6 +7,7 @@
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/gnubash.svg" />](https://www.gnu.org/software/bash)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/git.svg" />](https://git-scm.com)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />][my_github]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@5.24.0/icons/latex.svg" />](https://latex-project.org)
 
 ***
 
