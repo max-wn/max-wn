@@ -4,7 +4,7 @@ Skills: PYTHON
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/max-wn)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=max-wn)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=max-wn&theme=gruvbox
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=max-wn)](https://github.com/anuraghazra/github-readme-stats)
 
