@@ -18,9 +18,10 @@ Skills: PYTHON
 
 ***
 
-![my_github]: https://github.com/max-wn
-
+[my_github]: https://github.com/max-wn
 
 <!--
-**max-wn/max-wn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**max-wn/max-wn** is a _special_ repository because its `README.md` (this file) appears on your GitHub profile.
+this file created via:
+https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
