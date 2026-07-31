@@ -6,9 +6,9 @@ Skills: PYTHON
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=max-wn)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max-wn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=max-wn)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=max-wn&show_icons=true)  
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=max-wn&show_icons=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/max-wn/contributions?format=svg&private=false)  
 
